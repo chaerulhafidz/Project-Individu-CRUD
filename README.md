@@ -1,2 +1,4 @@
 # Project-Individu-CRUD
-Optional
+Nama: Andi Muhammad Chaerul Hafidz  
+NIM : G64160082
+Tugas Individu CRUD(Create-Read-Update-Delete)
